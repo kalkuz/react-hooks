@@ -1,0 +1,11 @@
+{
+  "editor.codeActionsOnSave": [
+    "source.organizeImports",
+    "source.fixAll.eslint"
+  ],
+  "eslint.validate": [
+    "typescript",
+  ],
+  "editor.tabSize": 2,
+  "typescript.tsserver.experimental.enableProjectDiagnostics": true
+}
